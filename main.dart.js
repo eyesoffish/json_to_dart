@@ -56954,12 +56954,12 @@ s=this.c.Z(t.Cu)
 s.toString
 s.f.JS(B.Hm)},
 P(a,b){var s=this,r=null,q=t.G
-return new A.up(A.a56(A.aax(new A.eQ(B.zA,A.a8B(A.b([B.Lo,B.Lp,B.Hg,A.UY(A.b([A.a8B(A.b([A.uL(A.aaM(!0,s.d,B.zY,1000),500,300),A.jd(r,A.aaM(!0,s.e,B.zZ,1000),r,r,50,B.zr,r,300),A.UY(A.b([A.alp(A.jd(B.ac,B.Lr,r,new A.ez(B.Ep,r,r,A.a53(10),r,r,B.b4),50,B.zo,r,200),s.gQT(),r),new A.qo(s.r,new A.a1_(s),r),B.Lq],q),B.dr,B.cI,B.c0),A.aiL(B.ac,B.v_,A.jd(B.ac,B.Ls,r,new A.ez(B.Eo,r,r,A.a53(10),r,r,B.b4),40,r,r,300),r,B.yY,44,s.gQX(),r,0.4)],q),B.cI,B.c0),B.Hf,A.a8Y(new A.z1(s.f,B.uN,!0,1.2,r))],q),B.eL,B.DJ,B.c0)],q),B.cI,B.c0),r),B.as),r,r),B.u,r)}}
+return new A.up(A.a56(A.aax(new A.eQ(B.zA,A.a8B(A.b([B.Ln,B.Lp,B.Hg,A.UY(A.b([A.a8B(A.b([A.uL(A.aaM(!0,s.d,B.zY,1000),500,300),A.jd(r,A.aaM(!0,s.e,B.zZ,1000),r,r,50,B.zr,r,300),A.UY(A.b([A.alp(A.jd(B.ac,B.Lr,r,new A.ez(B.Ep,r,r,A.a53(10),r,r,B.b4),50,B.zo,r,200),s.gQT(),r),new A.qo(s.r,new A.a1_(s),r),B.Lq],q),B.dr,B.cI,B.c0),A.aiL(B.ac,B.v_,A.jd(B.ac,B.Ls,r,new A.ez(B.Eo,r,r,A.a53(10),r,r,B.b4),40,r,r,300),r,B.yY,44,s.gQX(),r,0.4)],q),B.cI,B.c0),B.Hf,A.a8Y(new A.z1(s.f,B.uN,!0,1.2,r))],q),B.eL,B.DJ,B.c0)],q),B.cI,B.c0),r),B.as),r,r),B.u,r)}}
 A.a0X.prototype={
 $0(){this.a.f=this.b},
 $S:0}
 A.a0Y.prototype={
-$0(){this.a.f="json \u683c\u5f0f\u6709\u8bef"},
+$0(){this.a.f="json error!"},
 $S:0}
 A.a1_.prototype={
 $1(a){var s=this.a
@@ -61018,9 +61018,9 @@ B.Oq=new A.fA(4,"remove")
 B.k5=new A.fA(5,"timeout")
 B.Hl=new A.uS(null,null,null,null,null,null,null)
 B.L8=new A.k(!0,null,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Ln=new A.hy("\u590d\u5236\u6210\u529f!",null,B.L8,null,null,null,null,null,null)
+B.Lo=new A.hy("Copy successfully!",null,B.L8,null,null,null,null,null,null)
 B.zl=new A.ax(4e6)
-B.Hm=new A.lK(B.Ln,null,null,null,null,null,null,null,null,B.zl,null,null,B.lr,null)
+B.Hm=new A.lK(B.Lo,null,null,null,null,null,null,null,null,B.zl,null,null,B.lr,null)
 B.Hn=new A.oo(0,"criticallyDamped")
 B.Ho=new A.oo(1,"underDamped")
 B.Hp=new A.oo(2,"overDamped")
@@ -61297,7 +61297,7 @@ B.IU=new A.k(!0,B.j,null,".SF UI Text",null,null,null,null,null,null,null,null,n
 B.Lm=new A.d6(B.Ih,B.K2,B.Kg,B.KV,B.JC,B.IF,B.Ka,B.JF,B.JN,B.KD,B.IQ,B.L1,B.Jw,B.Ku,B.IU)
 B.uj=new A.vf(1,"longestLine")
 B.Kz=new A.k(!0,null,null,null,null,null,30,B.bt,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Lo=new A.hy("JSON to Dart",null,B.Kz,null,null,null,null,null,null)
+B.Ln=new A.hy("JSON to Dart",null,B.Kz,null,null,null,null,null,null)
 B.KW=new A.k(!0,B.t,null,null,null,null,23,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Lp=new A.hy("Paste your JSON in the textarea below, click convert and get your Dart classes for free.",null,B.KW,null,null,null,null,null,null)
 B.KX=new A.k(!0,B.o,null,null,null,null,17,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
